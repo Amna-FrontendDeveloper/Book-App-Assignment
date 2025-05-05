@@ -1,0 +1,21 @@
+# 📚 Book App Assignment
+
+A modern and responsive Book App built using **React**, **Vite**, and **Tailwind CSS**. This project showcases a simple, fast, and interactive front-end web application for browsing and managing books.
+
+## 🚀 Features
+
+- ⚛️ Built with **React** for dynamic UI components
+- ⚡ Uses **Vite** for blazing fast development and hot module replacement (HMR)
+- 🎨 Styled with **Tailwind CSS** for a responsive and modern look
+- ✅ Clean folder structure and linted with **ESLint**
+- 📦 Easy to extend and customize for book APIs or user interactions
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [ESLint](https://eslint.org/)
+
+## 📂 Folder Structure
+
